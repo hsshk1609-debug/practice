@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#head{
+    background-color: rgb(120, 55 ,30 );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav{
+background-color:rgba(255, 250, 244, 0.95);
+color: black;
+display: flex;
+ justify-content: space-around;
+ align-items: center;
+ padding: 25px;
+
+
+}
+a{
+    position: relative;
+    gap: 10px;
+    
+    font-size: 20px;
+    
+}
+#order{
+    font-size: larger;
+    background-color: rgb( 230,130,70);
+    border: solid  rgb( 230,130,70);;
+    border-radius: 10px;
+}
+#div1{
+    display: flex;
+    position: relative;
+    gap: 25px;
+}
